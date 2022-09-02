@@ -1,16 +1,8 @@
 # exelon_task
 
-A new Flutter project.
+A Flutter UI Challenge
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screnshots 
+![Screenshot_20220608-195852](https://user-images.githubusercontent.com/55798225/188102513-afa338fc-305b-4efd-899b-9523ffa71e8f.png)
+![Screenshot_20220608-195856](https://user-images.githubusercontent.com/55798225/188102525-f94cfd89-bccb-447b-be49-d8e2b78f4451.png)
+![Screenshot_20220608-195848](https://user-images.githubusercontent.com/55798225/188102533-f490239e-ed1b-4246-a579-db876d00a068.png)
